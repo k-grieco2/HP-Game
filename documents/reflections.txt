@@ -1,0 +1,53 @@
+◦ What did you like about the project?
+
+	Unlike other semester or final projects, I was always very excited to work on the 
+	Text-Based Adventure Game code. I felt it was a much more productive and interesting use of 
+	my time that writing essays on topics of no interesting to me. I thought the instructions 
+	were clear and most of the time I was able to write good code based off the documentation 
+	provided. Mostly, I enjoyed that the project was a fun way to take what we learned and apply
+	it in our own creative way.
+
+◦ What was the hardest part of the project?
+
+	The hardest part of the project was time management. Each stage of the project needed to be
+	carefully thought out and executed, and I would often get stuck thinking too hard about what
+	needed to be done. Equally as hard was getting started in the semester, as the creative
+	freedom made it difficult for me to make decisions for the initial design document.
+
+◦ What parts of your original game did not get implemented? Why?
+
+	At the end, I ran out of time to implement the Non-Player Character and Shops features that I
+	wanted to include. While I already had enough special features from other things,
+	I felt my game would have benefitted from this addition. I am hoping to implement these
+	features over the summer myself if I have time.
+	
+◦ What do you think we should do differently about the project in the future?
+
+	In future classes, it may be a good idea to review syntax in the scope of the pre-existing 
+	game code in the first or second lab to make sure the methods are understood, as it took me 
+	a while to figure out on my own. For example, in the beginning the project came with 
+	pre-existing classes and methods that I attempted to familiarize myself with as soon as it
+	was assigned. However, my relative inexperience made it difficult to follow the logical flow 
+	of the language and I struggled to comprehend what I was looking at. Over time, I picked up 
+	the syntax and understanding I needed, and the difficult parts of the project became more 
+	about executing the directions. 
+	
+◦ What would you do differently if you had to do it all over again?
+
+	I would definitely start my project earlier and work harder during the semester, instead of
+	cramming at the end. I admit, around the middle of the semester, I hit a slump and did not 
+	do much work on the project, which would have saved me from working so quickly at the end.
+	However, I am happy with my final project result.
+	
+◦ Are you also taking Imaginative Writing this semester? If so, do you think it helped you to design a more interesting game?
+
+	I am not taking Imaginative Writing this semester.
+	
+◦ What was good / bad / helpful / frustrating about using GitHub?
+
+	In the beginning of the semester, I was very confused by GitHub. There were a lot of buttons
+	that I had no idea what to do with, and I was terrified of clicking something and causing
+	damage to the work I had done. As the semester progressed, I learned what I needed to and
+	stayed away from what I didn't know. I also learned the hard way that it was very important
+	to check and make sure GitHub commits my changes when one of my labs did not get properly
+	picked up by the program.

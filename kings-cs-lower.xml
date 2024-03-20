@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module PUBLIC "-//Puppy Crawl//DTD Check Configuration 1.3//EN" "http://www.puppycrawl.com/dtds/configuration_1_3.dtd">
+
+<!--
+    This configuration file was written by the eclipse-cs plugin configuration editor
+-->
+<!--
+    Checkstyle-Configuration: King's Lower
+    Description: none
+-->
+<module name="Checker">
+  <property name="severity" value="warning"/>
+  <module name="TreeWalker">
+    <module name="TypeName">
+      <property name="format" value="^[A-Z][a-zA-Z0-9]+$"/>
+      <message key="name.invalidPattern" value="Class name ''{0}'' should start with a capital letter and use only letters and digits"/>
+    </module>
+    <module name="MemberName">
+      <property name="format" value="^[a-z][a-zA-Z0-9]+$"/>
+      <message key="name.invalidPattern" value="Instance variable name ''{0}'' should start with a lower case letter and use only letters and digits"/>
+    </module>
+    <module name="MethodName">
+      <property name="format" value="^[a-z][a-zA-Z0-9]+$"/>
+      <message key="name.invalidPattern" value="Method name ''{0}'' should start with a lower case letter and use only letters and digits"/>
+    </module>
+    <module name="ParameterName">
+      <message key="name.invalidPattern" value="Parameter name ''{0}'' should start with a lower case letter and use only letters and digits"/>
+    </module>
+    <module name="LocalVariableName">
+      <property name="format" value="^[a-z][a-zA-Z0-9]+$"/>
+      <message key="name.invalidPattern" value="Local variable name ''{0}'' should start with a lower case letter and use only letters and digits"/>
+    </module>
+    <module name="ConstantName">
+      <message key="name.invalidPattern" value="Constant name ''{0}'' should be all upper case letters, digits and underscores"/>
+    </module>
+    <module name="LeftCurly">
+      <property name="option" value="nlow"/>
+      <property name="tokens" value="CLASS_DEF,CTOR_DEF,INTERFACE_DEF,METHOD_DEF"/>
+    </module>
+    <module name="LeftCurly">
+      <property name="option" value="nlow"/>
+      <property name="tokens" value="LITERAL_CATCH,LITERAL_DO,LITERAL_ELSE,LITERAL_FINALLY,LITERAL_FOR,LITERAL_IF,LITERAL_SWITCH,LITERAL_SYNCHRONIZED,LITERAL_TRY,LITERAL_WHILE"/>
+    </module>
+    <module name="NeedBraces"/>
+    <module name="EmptyBlock">
+      <property name="option" value="text"/>
+    </module>
+    <module name="MissingSwitchDefault"/>
+    <module name="DefaultComesLast"/>
+    <module name="WhitespaceAround">
+      <property name="tokens" value="ASSIGN, BAND, BAND_ASSIGN, BOR, BOR_ASSIGN,          BSR, BSR_ASSIGN, BXOR, BXOR_ASSIGN, COLON, DIV, DIV_ASSIGN, EQUAL, GE, GT,          LAND, LE, LOR, LT, MINUS, MINUS_ASSIGN, MOD, MOD_ASSIGN, NOT_EQUAL,          PLUS, PLUS_ASSIGN, QUESTION, SL, SL_ASSIGN, SR, SR_ASSIGN, STAR, STAR_ASSIGN"/>
+    </module>
+    <module name="JavadocType"/>
+    <module name="Regexp">
+      <property name="format" value="Write a description of"/>
+      <property name="message" value="Javadoc: Please replace the default comment          with your own descriptive comment for this class"/>
+      <property name="illegalPattern" value="true"/>
+    </module>
+    <module name="JavadocMethod"/>
+    <module name="DeclarationOrder"/>
+    <module name="VisibilityModifier"/>
+    <module name="AvoidStarImport"/>
+    <module name="ParameterAssignment">
+      <message key="parameter.assignment" value="Suggestion: avoid re-assignment to the parameter ''{0}''"/>
+    </module>
+    <module name="ModifiedControlVariable"/>
+    <module name="InnerAssignment"/>
+    <module name="AvoidInlineConditionals"/>
+    <module name="JavadocStyle">
+      <property name="checkEmptyJavadoc" value="true"/>
+      <property name="endOfSentenceFormat" value="([.:?!][ \t\n\r\f&lt;])|([.:?!]$)"/>
+    </module>
+    <module name="ClassTypeParameterName"/>
+    <module name="RedundantImport"/>
+    <module name="UnusedImports"/>
+    <module name="GenericWhitespace"/>
+    <module name="EmptyStatement"/>
+    <module name="StringLiteralEquality"/>
+    <module name="ReturnCount">
+      <property name="max" value="1"/>
+    </module>
+    <module name="HiddenField">
+      <property name="ignoreConstructorParameter" value="true"/>
+      <property name="ignoreSetter" value="true"/>
+      <property name="ignoreAbstractMethods" value="true"/>
+    </module>
+    <module name="IllegalCatch"/>
+    <module name="IllegalToken">
+      <property name="tokens" value="INSTANCE_INIT,LITERAL_CONTINUE,SR_ASSIGN,BSR_ASSIGN,SL_ASSIGN,BAND_ASSIGN,BXOR_ASSIGN,BOR_ASSIGN,BOR,BXOR,BAND,SL,SR,BSR,BNOT"/>
+    </module>
+    <module name="IllegalThrows"/>
+    <module name="OneStatementPerLine"/>
+    <module name="LocalFinalVariableName">
+      <property name="format" value="^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$"/>
+    </module>
+    <module name="JavadocVariable"/>
+    <module name="IllegalTokenText"/>
+  </module>
+</module>

@@ -1,0 +1,1216 @@
+
+Welcome to Harry Potter and the Barren Halls of Ivy!
+You are Harry Potter, a third-year Gryffindor Student at Hogwarts School of Witchcraft and Wizardry.
+You wake up after a long night of celebrating last night's Qudditch win, still feeling a bit groggy. It soon becomes apparent that the castle is deserted, and you are the only one left.
+It's up to you to figure out what happend to your friends and foes alike. You wonder what sinister adversary you'll face this time...
+Type 'help' if you need help.
+
+Gryffindor Boys' Dorms: 
+Living quarters for Gryffindor wizards.
+Exits: east south 
+Items: Bed, Mirror, Dresser, Closet
+> examine closet
+Closet
+It looks like it can contain a pretty standard amount of clothing. One of the doors is slightly ajar. "Drop the bottle" is scratched into it.
+Contains: Stardust Bottle
+> unpack closet
+What item would you like to unpack?
+stardust bottle
+Stardust Bottle was added to your bag.
+> drop stardust bottle
+You dropped the stardust bottle.
+It broke.
+You got 25 points from the Stardust Bottle!
+> examine
+Examine what?
+> examine bed
+Bed
+A relatively comfortable place to sleep.
+> unpack bed
+This item is not a container.
+> look
+Gryffindor Boys' Dorms: 
+Living quarters for Gryffindor wizards.
+Exits: east south 
+Items: Bed, Mirror, Dresser, Closet
+> go east
+Gryffindor Dorm Hallway: 
+Long corridor leading from all Gryffindor bedrooms to the common room. It has a homey ambiance, with decorative sconces and plush carpeting.
+Exits: south west 
+Items: Albus Dumbeldore Painting, Painting of Old Wizard, Frame
+> examine frame
+Frame
+Displays things on the wall.
+Contains: Gryffindor House Pennant
+> go west
+Gryffindor Boys' Dorms: 
+Living quarters for Gryffindor wizards.
+Exits: east south 
+Items: Bed, Mirror, Dresser, Closet
+> go south
+Gryffindor Boys' Bathroom: 
+The men's bathroom for Gryffindor students.
+Exits: north east 
+Items: Shower, Toilet, Shower Hook
+> examine shower hook
+Shower Hook
+A place to hang things while you shower.
+Contains: Hufflepuff Uniform
+> unpack shower hook
+What item would you like to unpack?
+take hufflepuff uniform
+You can't find this item here...
+> unpack shower hook
+What item would you like to unpack?
+hufflepuff uniform
+Hufflepuff Uniform was added to your bag.
+> inventory
+Inventory: 
+	Hufflepuff Uniform
+> go east
+Gryffindor Common Room: 
+A common area for Gryffindor students.
+Exits: north south west 
+Items: Side Table, Bulletin Board, Empty Firewhiskey Keg, Couch, Fireplace
+> examine side table
+Side Table
+An ornate table next to the couch, for convenience.
+Contains: Stardust Bottle, Lamp, Net
+> unpack side table
+What item would you like to unpack?
+stardust bottle
+Stardust Bottle was added to your bag.
+> unpack side table
+What item would you like to unpack?
+net
+Net was added to your bag.
+> drop stardust bottle
+You dropped the stardust bottle.
+It broke.
+You got 80 points from the Stardust Bottle!
+> examine fireplace
+Fireplace
+Adorned in red and yellow, and with a fire that never burns out, this fireplace is an excellent way to travel by Floo powder.
+Contains: Stardust Bottle
+> unpack fireplace
+What item would you like to unpack?
+stardust bottle
+Stardust Bottle was added to your bag.
+> drop stardust bottle
+You dropped the stardust bottle.
+It broke.
+You got 2 points from the Stardust Bottle!
+> examine bulletin board
+Bulletin Board
+Important announcements are hung here.
+Contains: Password Flyer
+> unpack bulletin board
+What item would you like to unpack?
+password flyer
+Password Flyer was added to your bag.
+> examine password flyer
+Password Flyer
+ "Notice: Passwords have been temporarily waived. The entrances to each common room will be able to recognize what house each student belongs to. Neville, this is your fault."'
+> drop password flyer
+You dropped the password flyer.
+> go south
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: north east south 
+Items: none
+> go south
+Astronomy Tower Staircase: 
+A narrow staircase leading to the Astronomy Tower.
+Exits: north south west 
+Items: none
+> go south
+Astronomy Tower: 
+A large room filled with artifacts for observing the sky.
+Exits: north west 
+Items: Artifacts Closet
+> examine artifacts closet
+Artifacts Closet
+A storage area containing important and powerful astronomy tools.
+Contains: Stardust Bottle, Bicorn Horn, Telescope
+> unpack stardust bottle
+You don't see this item anywhere...
+> unpack artifacts closet
+What item would you like to unpack?
+stardust bottle
+Stardust Bottle was added to your bag.
+> drop stardust bottle
+You dropped the stardust bottle.
+It broke.
+You got 27 points from the Stardust Bottle!
+> unpack artifacts closet
+What item would you like to unpack?
+bicorn horn
+Bicorn Horn was added to your bag.
+> look
+Astronomy Tower: 
+A large room filled with artifacts for observing the sky.
+Exits: north west 
+Items: Artifacts Closet
+> go west
+Divination Classroom: 
+Professor Trelawney's divination classroom. There is almost nothing in here.
+ There is a fly buzzing around the room!
+Exits: east 
+Items: Crystal Ball
+> drop net
+You dropped the net.
+> take fly
+You need to be holding something to catch the fly with...
+> take net
+Net was added to your bag.
+> take fly
+Fly was added to your bag.
+> inventory
+Inventory: 
+	Bicorn Horn
+	Fly
+	Hufflepuff Uniform
+	Net
+> go east
+Astronomy Tower: 
+A large room filled with artifacts for observing the sky.
+Exits: north west 
+Items: Artifacts Closet
+> go north
+Astronomy Tower Staircase: 
+A narrow staircase leading to the Astronomy Tower.
+Exits: north south west 
+Items: none
+> go north
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: north east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: north east west 
+Items: none
+> go north
+North Moving Staircase: 
+The north section of the moving stairs.
+Exits: north south west 
+Items: none
+> go south
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: north east west 
+Items: none
+> go north
+North Moving Staircase: 
+The north section of the moving stairs.
+Exits: north south west 
+Items: none
+> go south
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: north east west 
+Items: none
+The stairs have moved!
+New Exits: north south
+> go south
+South Moving Staircase: 
+The south section of the moving stairs.
+Exits: north east south west 
+Items: none
+> go east
+Dungeons: 
+A collection of dark, desolate empty cells in the basement.
+Exits: south west 
+Items: Cells
+> go west
+South Moving Staircase: 
+The south section of the moving stairs.
+Exits: north east south west 
+Items: none
+> go west
+Library: 
+The main library for all Hogwarts students; a quiet zone.
+ There is a fly buzzing around the room!
+Exits: east south 
+Items: Bookshelf
+> examine bookshelf
+Bookshelf
+It's full of books. Obviously.
+Contains: Stardust Bottle, Boomslang Skin
+> unpack bookshelf
+What item would you like to unpack?
+boomslang skin
+Boomslang Skin was added to your bag.
+> unpack bookshelf
+What item would you like to unpack?
+stardust bottle
+Stardust Bottle was added to your bag.
+> drink stardust bottle
+You drank the Stardust Bottle liquid!
+You don't feel very good after drinking that...
+> go south
+Ravenclaw Hall: 
+The hallway outside the Ravenclaw Common Room.
+Exits: north 
+Items: A Vase
+> examine vase
+There is no such item!
+> examine a vase
+A Vase
+You wonder why they aren't any flowers in it...
+Contains: Stardust Bottle
+> unpack a vase
+What item would you like to unpack?
+stardust bottle
+Stardust Bottle was added to your bag.
+> drop stardust bottle
+You dropped the stardust bottle.
+It broke.
+You got 58 points from the Stardust Bottle!
+> go north
+Library: 
+The main library for all Hogwarts students; a quiet zone.
+ There is a fly buzzing around the room!
+Exits: east south 
+Items: Bookshelf
+> go east
+South Moving Staircase: 
+The south section of the moving stairs.
+Exits: north east south west 
+Items: none
+> go east
+Dungeons: 
+A collection of dark, desolate empty cells in the basement.
+Exits: south west 
+Items: Cells
+> go south
+Slytherin Hall: 
+The hallway outside the Slytherin Common Room.
+ There is a fly buzzing around the room!
+Exits: north south 
+Items: none
+> go south
+Potions Classroom: 
+Professor Snape's classroom for teaching Potions lessons.
+Exits: north 
+Items: Cauldron, Chalkboard
+> examine chalkboard
+Chalkboard
+It reads: 
+ 	 Today's Class: How to build Polyjuice Potion 
+ 	 	 1 Boomslang Skin 
+ 	 	 1 Bicorn Horn 
+ 	 	 1 Lacewing Fly 
+ 	 Hair or other DNA object from the person you want to look like
+> examine cauldron
+Cauldron
+A pot for bewing potions. It looks like it already has some hair at the bottom?
+> help
+You are scared. You are alone. You wander
+around Hogwarts and its surroundings.
+
+Your command words are:
+   go, quit, help, look, status,
+   back, examine, take, drop,
+   inventory, unlock, lock, unpack,
+   pack, build, dismantle, eat
+   drink, up, cast
+> build polyjuice potion
+Polyjuice Potion was built.
+Polyjuice Potion was added to your bag.
+> drink polyjuice potion
+You drank the Polyjuice Potion!
+Your skin begins to bubble...and change...
+...
+...
+You look just like Hufflepuff Student Cedric Diggory!
+Go quickly, the potion will wear off soon.
+> go north
+Slytherin Hall: 
+The hallway outside the Slytherin Common Room.
+ There is a fly buzzing around the room!
+Exits: north south 
+Items: none
+> go north
+Dungeons: 
+A collection of dark, desolate empty cells in the basement.
+Exits: south west 
+Items: Cells
+> go west
+South Moving Staircase: 
+The south section of the moving stairs.
+Exits: north east south west 
+Items: none
+> go north
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: north south 
+Items: none
+The stairs have moved!
+New Exits: west
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: west 
+Items: none
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: west 
+Items: none
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: west 
+Items: none
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: west 
+Items: none
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: west 
+Items: none
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: west 
+Items: none
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: west 
+Items: none
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: west 
+Items: none
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: west 
+Items: none
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: west 
+Items: none
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: west 
+Items: none
+> go wes
+There is no door!
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: west 
+Items: none
+The stairs have moved!
+New Exits: north west
+> go north
+North Moving Staircase: 
+The north section of the moving stairs.
+Exits: north south west 
+Items: none
+> go north
+Charms Classroom: 
+Professor Flitwick's classroom for Charms lessons.
+Exits: south 
+Items: Flitwick's Desk
+> go south
+North Moving Staircase: 
+The north section of the moving stairs.
+Exits: north south west 
+Items: none
+The stairs have moved!
+New Exits: south west
+> go west
+Transfiguration Classroom: 
+Professor McGonagall's classroom for Transfiguration lessons.
+ There is a fly buzzing around the room!
+Exits: east 
+Items: McGonagall's Desk
+> go east
+North Moving Staircase: 
+The north section of the moving stairs.
+Exits: south west 
+Items: none
+> go west
+Transfiguration Classroom: 
+Professor McGonagall's classroom for Transfiguration lessons.
+ There is a fly buzzing around the room!
+Exits: east 
+Items: McGonagall's Desk
+> go east
+North Moving Staircase: 
+The north section of the moving stairs.
+Exits: south west 
+Items: none
+The stairs have moved!
+New Exits: north south
+> go west
+There is no door!
+> go north
+Charms Classroom: 
+Professor Flitwick's classroom for Charms lessons.
+Exits: south 
+Items: Flitwick's Desk
+> go south
+North Moving Staircase: 
+The north section of the moving stairs.
+Exits: north south 
+Items: none
+The stairs have moved!
+New Exits: south
+> go south
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: north west 
+Items: none
+> go nroth
+There is no door!
+> go north
+North Moving Staircase: 
+The north section of the moving stairs.
+Exits: south 
+Items: none
+The stairs have moved!
+New Exits: north south
+> go north
+Charms Classroom: 
+Professor Flitwick's classroom for Charms lessons.
+Exits: south 
+Items: Flitwick's Desk
+> go south
+North Moving Staircase: 
+The north section of the moving stairs.
+Exits: north south 
+Items: none
+The stairs have moved!
+New Exits: east south
+> go east
+Hufflepuff Hall: 
+The hallway outside the Hufflepuff Common Room, which will only reveal itself to perceived Hufflepuff students.
+Exits: north west 
+Items: none
+> go north
+Hufflepuff Common Room: 
+A comfortable living space for students in Hufflepuff House.
+Exits: south 
+Items: Side Table, Couch, Fireplace
+The Polyjuice Potion has worn off!
+You will no longer be recognized as a Hufflepuff student and you will not be able to return to this room.
+Make sure you get what you need before leaving
+> examine side table
+Side Table
+An ornate table next to the couch, for convenience.
+Contains: Lamp
+> examine fireplace
+Fireplace
+Adorned in yellow and black, there is no fire here.
+Contains: Wooden Plank, Key
+> unpack fireplack
+You don't see this item anywhere...
+> unpack fireplace
+What item would you like to unpack?
+key
+Key was added to your bag.
+> examine key
+Key
+A large, ornate key. The words "Great Hall" are inscribed on it in an elegant cursive script.
+> go south
+Hufflepuff Hall: 
+The hallway outside the Hufflepuff Common Room, which will only reveal itself to perceived Hufflepuff students.
+Exits: west 
+Items: none
+> go west
+North Moving Staircase: 
+The north section of the moving stairs.
+Exits: east south 
+Items: none
+> go south
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: north west 
+Items: none
+The stairs have moved!
+New Exits: east south west
+> go east
+This door is locked!
+> unlock east
+With what?
+key
+The door to the east has been unlocked.
+> go east
+Great Hall: 
+An enormous, ornately-decorated gathering room.
+Exits: west 
+Items: The High Table, Regular Table
+> examine regular table
+Regular Table
+For students. It isn't as nice as the High Table.
+Contains: Note, Spellbook, Wand
+> unpack regular table
+What item would you like to unpack?
+note
+Note was added to your bag.
+> examine note
+Note
+In an elegant, cursive script, it reads: "Enjoy your breakfast, Harry. See you outside." There is no breakfast to be found.
+> unpack regular table
+What item would you like to unpack?
+wand
+Wand was added to your bag.
+> unpack regular table
+What item would you like to unpack?
+spellbook
+Spellbook was added to your bag.
+> examine spellbook
+Spellbook
+Spells: 
+ 	 Alohomora - unlocks things 
+ 	 Dissendium - reveals a certain hidden passage 
+ Not technically a spell but remember: Use the 'UP' command to mount a flying broomstick.
+> go west
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: east south west 
+Items: none
+The stairs have moved!
+New Exits: north west
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: north east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: north west 
+Items: none
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: north east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: north west 
+Items: none
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: north east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: north west 
+Items: none
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: north east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: north west 
+Items: none
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: north east south 
+Items: none
+> go south
+Astronomy Tower Staircase: 
+A narrow staircase leading to the Astronomy Tower.
+Exits: north south west 
+Items: none
+> go west
+Forbidden Corridor: 
+A corridor off-limits to students.
+Exits: north east 
+Items: none
+> go north
+One-Eyed Witch Statue: 
+A statue at the far corner of the forbidden corridor. It sparkles, as if trying to tell you there is something more to it...
+Exits: south 
+Items: none
+> cast 
+Cast what?
+> cast dissendium
+You unlocked a secret passage! Look around to see it.
+> look
+One-Eyed Witch Statue: 
+A statue at the far corner of the forbidden corridor. It sparkles, as if trying to tell you there is something more to it...
+Exits: north south 
+Items: none
+> go north
+Honeydukes' Basement: 
+A storage area for the candy shop.
+Exits: east south 
+Items: none
+> go south
+One-Eyed Witch Statue: 
+A statue at the far corner of the forbidden corridor. It sparkles, as if trying to tell you there is something more to it...
+Exits: north south 
+Items: none
+> go south
+Forbidden Corridor: 
+A corridor off-limits to students.
+Exits: north east 
+Items: none
+> go east
+Astronomy Tower Staircase: 
+A narrow staircase leading to the Astronomy Tower.
+Exits: north south west 
+Items: none
+> go north
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: north east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: north west 
+Items: none
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: north east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: north west 
+Items: none
+> go west
+Gryffindor Tower Hallway: 
+The corridor outside Gryffindor Tower.
+Exits: north east south 
+Items: none
+> go east
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: north west 
+Items: none
+The stairs have moved!
+New Exits: east west
+> go east
+Great Hall: 
+An enormous, ornately-decorated gathering room.
+Exits: west 
+Items: The High Table, Regular Table
+> go west
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: east west 
+Items: none
+> go east
+Great Hall: 
+An enormous, ornately-decorated gathering room.
+Exits: west 
+Items: The High Table, Regular Table
+> go west
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: east west 
+Items: none
+> go east
+Great Hall: 
+An enormous, ornately-decorated gathering room.
+Exits: west 
+Items: The High Table, Regular Table
+> go west
+Main Moving Staircase: 
+The middle section of the moving stairs.
+Exits: east west 
+Items: none
+The stairs have moved!
+New Exits: south
+> go south
+South Moving Staircase: 
+The south section of the moving stairs.
+Exits: north east south west 
+Items: none
+The stairs have moved!
+New Exits: north west
+> go west
+Library: 
+The main library for all Hogwarts students; a quiet zone.
+ There is a fly buzzing around the room!
+Exits: east south 
+Items: Bookshelf
+> go east
+South Moving Staircase: 
+The south section of the moving stairs.
+Exits: north west 
+Items: none
+> go west
+Library: 
+The main library for all Hogwarts students; a quiet zone.
+ There is a fly buzzing around the room!
+Exits: east south 
+Items: Bookshelf
+> go east
+South Moving Staircase: 
+The south section of the moving stairs.
+Exits: north west 
+Items: none
+> go west
+Library: 
+The main library for all Hogwarts students; a quiet zone.
+ There is a fly buzzing around the room!
+Exits: east south 
+Items: Bookshelf
+> go east
+South Moving Staircase: 
+The south section of the moving stairs.
+Exits: north west 
+Items: none
+> go west
+Library: 
+The main library for all Hogwarts students; a quiet zone.
+ There is a fly buzzing around the room!
+Exits: east south 
+Items: Bookshelf
+> go east
+South Moving Staircase: 
+The south section of the moving stairs.
+Exits: north west 
+Items: none
+The stairs have moved!
+New Exits: east south
+> go south
+Hogwarts Main Entrance: 
+The main doorway to Hogwarts Castle.
+Exits: north south 
+Items: Knight
+> examine knight
+Knight
+A set of armor. Is it holding something?
+Contains: Stardust Bottle
+> unpack knight
+What item would you like to unpack?
+stardust bottle
+Stardust Bottle was added to your bag.
+> drop stardust bottle
+You dropped the stardust bottle.
+It broke.
+You got 7 points from the Stardust Bottle!
+> go south
+This door is locked!
+> cast alohomora
+You unlocked the castle's main doors! You can now go south.
+> go south
+Hogwarts Grounds: 
+The Hogwarts outdoor fields.
+Exits: north east south 
+Items: none
+> bo east
+I don't know what you mean...
+> go east
+Forbidden Forest: 
+An off-limits wooded area, home to a variety of magical creatures.
+Exits: east south west 
+Items: none
+> go east
+Deep Forbidden Forest: 
+A very dangerous, very off-limits wooded area.
+Exits: west 
+Items: none
+> go west
+Forbidden Forest: 
+An off-limits wooded area, home to a variety of magical creatures.
+Exits: east south west 
+Items: none
+> go south
+Whomping Willow: 
+An unfriendly tree. Don't get too close.
+Exits: north west 
+Items: none
+> go west
+Hogwarts Main Gate: 
+The main entrance/exit from the Hogwarts grounds.
+Exits: north east south west 
+Items: Archway
+> go west
+Quidditch Stadium: 
+A sports complex where Quidditch is played.
+Exits: east 
+Items: Quidditch Equipment Chest, Broom Closet
+> examine broom closet
+Broom Closet
+Only muggles would think this closet is boring. This is where the best, fastest brooms on campus are stored. Unfortunately, it's nearly empty.
+Contains: Broomstick Handle
+> unpack broom closet
+What item would you like to unpack?
+broomstick handle
+Broomstick Handle was added to your bag.
+> examine broomstick handle
+Broomstick Handle
+An enchanted piece of wood that floats, but cannot be steered without attaching straw to the end.
+> go east
+Hogwarts Main Gate: 
+The main entrance/exit from the Hogwarts grounds.
+Exits: north east south west 
+Items: Archway
+> go south
+Entrance to Hogsmeade Village: 
+An archway welcoming visitors to Hogsmeade Village.
+Exits: north south 
+Items: Wheelbarrow, Sign
+> examine sign
+Sign
+It welcomes you to Hogsmeade Village
+> examine wheelbarrow
+Wheelbarrow
+Good for carrying things.
+Contains: Stardust Bottle, Straw
+> unpack wheelbarrow
+What item would you like to unpack?
+stardust bottle
+Stardust Bottle was added to your bag.
+> unpack wheelbarrow
+What item would you like to unpack?
+straw
+Straw was added to your bag.
+> build broomstick
+You are missing the ingredient String.
+> inventory
+Inventory: 
+	Stardust Bottle
+	Note
+	Spellbook
+	Wand
+	Broomstick Handle
+	Hufflepuff Uniform
+	Net
+	Straw
+	Key
+> drop note
+You dropped the note.
+> drop net
+You dropped the net.
+> drop key
+You dropped the key.
+> go south
+Hogsmeade Square: 
+The heart of Hogsmeade Village.
+Exits: north east south west 
+Items: none
+> go south
+Fountain: 
+You are standing in front of a beautiful, enchanted water fountain. Someone has tacked a note to it that reads "Fly south!"
+Exits: north 
+Items: Fountain
+> go north
+Hogsmeade Square: 
+The heart of Hogsmeade Village.
+Exits: north east south west 
+Items: none
+> go west
+West Shop Lane: 
+A connecting road to the shops on the west side of the village.
+Exits: north east south west 
+Items: none
+> go north
+Honeydukes: 
+A candy shop. A door reading " Employees Only" is propped open.
+Exits: south west 
+Items: Candy Counter
+> examine candy counter
+Candy Counter
+Essential to any candy shop; this is where they keep all the good stuff.
+Contains: Bertie Bott's Every Flavor Beans, Chocolate Frog
+> unpack candy counter
+What item would you like to unpack?
+bertie bott's every flavor beans
+Bertie Bott's Every Flavor Beans was added to your bag.
+> unpack candy counter
+What item would you like to unpack?
+chocolate frog
+Chocolate Frog was added to your bag.
+> eat chocolate frog
+You ate the Chocolate Frog!
+It was good, but now you can feel it hopping around your stomach.
+> eat bertie bott's every flavor beans
+You ate the Bertie Bott's Every Flavor Beans!
+Some of those tasted really bad...
+> go west
+Honeydukes' Basement: 
+A storage area for the candy shop.
+Exits: east south 
+Items: none
+> go east
+Honeydukes: 
+A candy shop. A door reading " Employees Only" is propped open.
+Exits: south west 
+Items: Candy Counter
+> go south
+West Shop Lane: 
+A connecting road to the shops on the west side of the village.
+Exits: north east south west 
+Items: none
+> go east
+Hogsmeade Square: 
+The heart of Hogsmeade Village.
+Exits: north east south west 
+Items: none
+> go west
+West Shop Lane: 
+A connecting road to the shops on the west side of the village.
+Exits: north east south west 
+Items: none
+> go west
+Zonko's Joke Shop: 
+A prank item shop.
+Exits: east 
+Items: Shelves
+> examine shelves
+Shelves
+Displays the joke items currently for sale.
+Contains: Decoy Detonator, Ton-Tongue Fudge
+> unpack shelves
+What item would you like to unpack?
+ton-tongue fudge
+Ton-Tongue Fudge was added to your bag.
+> eat ton-tongue fudge
+You ate the Ton-Tongue Fudge!
+That was delicious!
+Your tongue begins to grow...
+...and grow...
+...and grow...
+It stops growing.
+The packaging says it will only last a few minutes. Hopefully, you will be back to normal soon.
+> go east
+West Shop Lane: 
+A connecting road to the shops on the west side of the village.
+Exits: north east south west 
+Items: none
+> go south
+The Three Broomsticks: 
+A lively, extremely popular bar. It is completely empty, which is highly unusual.
+Exits: north 
+Items: Bar
+> examine butterbeer
+There is no such item!
+> examine bar
+Bar
+A clean sitting are for patrons to order drinks and watch the bartender work.
+Contains: Butterbeer
+> unpack bar
+What item would you like to unpack?
+butterbeer
+Butterbeer was added to your bag.
+> drink butterbeer
+You drank the Butterbeer!
+That was delicious!
+> go north
+West Shop Lane: 
+A connecting road to the shops on the west side of the village.
+Exits: north east south west 
+Items: none
+> go east
+Hogsmeade Square: 
+The heart of Hogsmeade Village.
+Exits: north east south west 
+Items: none
+> go east
+East Shop Lane: 
+A connecting road to the shops on the east side of the village.
+Exits: north east south west 
+Items: none
+> go north
+Hog's Head: 
+A run-down, dingy bar.
+Exits: south 
+Items: Abe's Bar
+> examine abe's bar
+Abe's Bar
+It's kind of grimy.
+Contains: Stardust Bottle, String
+> unpack abe's bar
+What item would you like to unpack?
+string
+String was added to your bag.
+> unpack abe's bar
+What item would you like to unpack?
+stardust bottle
+Stardust Bottle was added to your bag.
+> drop stardust bottle
+You dropped the stardust bottle.
+It broke.
+You got 59 points from the Stardust Bottle!
+> status
+Hog's Head: 
+A run-down, dingy bar.
+Exits: south 
+Items: Abe's Bar
+So far, you have earned 1633 points in 238 turns.
+> go south
+East Shop Lane: 
+A connecting road to the shops on the east side of the village.
+Exits: north east south west 
+Items: none
+> go east
+Madam Puddifoot's Tea Shop: 
+A quaint tea shop.
+Exits: west 
+Items: Coffee Table, Plush Couch
+> examine coffee tab;e
+There is no such item!
+> examine coffee table
+Coffee Table
+A pink table in front of the couch.
+Contains: Cup of Tea
+> unpack coffee table
+What item would you like to unpack?
+cup of tea
+Cup of Tea was added to your bag.
+> dismantle cup of tea
+You can't dismantle this!
+> drink cup of tea
+You drank the Cup of Tea!
+It's not the best tea you've ever had, but it's defintely the fanciest.
+> go west
+East Shop Lane: 
+A connecting road to the shops on the east side of the village.
+Exits: north east south west 
+Items: none
+> go south
+Shrieking Shack: 
+An old structure, rumored to be haunted by the locals. You're not sure if you hear screaming or if your mind is just playing tricks on you.
+Exits: north 
+Items: none
+> go west
+There is no door!
+> go north
+East Shop Lane: 
+A connecting road to the shops on the east side of the village.
+Exits: north east south west 
+Items: none
+> go west
+Hogsmeade Square: 
+The heart of Hogsmeade Village.
+Exits: north east south west 
+Items: none
+> up
+There is no Broomstick here!
+> build broomstick
+Broomstick was built.
+Broomstick was added to your bag.
+> up
+You are on the Broomstick!
+I wonder where you should fly to...
+> look
+Hogsmeade Square: 
+The heart of Hogsmeade Village.
+Exits: north east south west 
+Items: none
+> go south
+Fountain: 
+You are standing in front of a beautiful, enchanted water fountain. Someone has tacked a note to it that reads "Fly south!"
+Exits: north south 
+Items: Fountain
+> go south
+The Weasley's Garden: 
+After flying for a while, you spot the garden outside of the Weasleys' house. It appears to be overrun with gnomes. You land.
+Exits: east 
+Items: Garden
+> examine garden
+Garden
+You don't see any plants, just gnomes.
+Contains: Gnome
+> unpack garden
+What item would you like to unpack?
+gnome
+Gnome was added to your bag.
+> examine gnome
+Gnome
+They say the only good gnome is a dead gnome. If you're going to pick it up, be careful. They bite!
+> go east
+The Burrow: 
+The Weasley's living room.
+Exits: west 
+Items: Cake, "Happy Birthday Harry" Banner, Birthday balloons
+As you enter The Burrow, the lights suddenly flicker on.
+EVERYONE: SURPRISE!!!!!!!!!!
+You blink and look around to see everyone from Ron and Hermione to Snape and Draco in the room.
+HERMIONE: Oh, Harry, did we surprise you? It was all Ron's idea...
+RON: We know your birthday isn't for a few months, but we REALLY wanted it to be a surprise!!
+This was not at all how you thought this day was going to end.
+You are glad everyone is safe and that you get to eat cake.
+Congratulations! You win!
+I hope you enjoyed your time at Hogwarts!
+You have earned 2768 points in 260 turns.
+Thank you for playing.  Goodbye.

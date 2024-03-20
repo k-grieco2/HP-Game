@@ -1,0 +1,17 @@
+
+Welcome to Harry Potter and the Barren Halls of Ivy!
+You are Harry Potter, a third-year Gryffindor Student at Hogwarts School of Witchcraft and Wizardry.
+You wake up after a long night of celebrating last night's Qudditch win, still feeling a bit groggy. It soon becomes apparent that the castle is deserted, and you are the only one left.
+It's up to you to figure out what happend to your friends and foes alike. You wonder what sinister adversary you'll face this time...
+Type 'help' if you need help.
+
+Gryffindor Boys' Dorms: 
+Living quarters for Gryffindor wizards.
+Exits: east south 
+Items: Bed, Mirror, Dresser, Closet
+> go east
+Gryffindor Dorm Hallway: 
+Long corridor leading from all Gryffindor bedrooms to the common room. It has a homey ambiance, with decorative sconces and plush carpeting.
+Exits: south west 
+Items: Albus Dumbeldore Painting, Painting of Old Wizard, Frame
+> 
